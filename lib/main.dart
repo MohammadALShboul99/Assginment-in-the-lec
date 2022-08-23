@@ -75,7 +75,7 @@ class Shboul extends StatelessWidget {
                         color: Colors.amber,
                         child: Text("Car specif"),
                         onPressed: () {
-                          print("hi from 1st button");
+                          print("hi from 2nd button");
                         },
                       ),
                       SizedBox(
@@ -85,7 +85,7 @@ class Shboul extends StatelessWidget {
                         color: Colors.amber,
                         child: Text("Buy"),
                         onPressed: () {
-                          print("hi from 1st button");
+                          print("hi from 3rd button");
                         },
                       ),
                       SizedBox(
@@ -95,7 +95,7 @@ class Shboul extends StatelessWidget {
                         color: Colors.amber,
                         child: Text("Car specif"),
                         onPressed: () {
-                          print("hi from 1st button");
+                          print("hi from 4th button");
                         },
                       ),
                     ],
